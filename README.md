@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: Pawaris Panya
+# STUDENT ID: 670610716
